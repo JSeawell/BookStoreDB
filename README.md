@@ -1,5 +1,6 @@
 # BookStore Database
-> ## CS-340 (Intro to Databases) Project
+> CS-340 (Intro to Databases) Project  
+
 A database-backed bookstore web app, written using MySQL, HTML/CSS/JS, Node, Express, and Handlebars.
 
 ## How to view:
