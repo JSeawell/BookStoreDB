@@ -7,7 +7,7 @@ A database-backed bookstore web app, written using MySQL, HTML/CSS/JS, Node, Exp
 > 1. VPN into OSU flip servers  
 > 2. Navigate [HERE](http://flip3.engr.oregonstate.edu:5228/home)
 
-## What I learned:
+## Concepts learned/used:
 > 1. Relational databases  
 > 2. ER (entity/relationship) model/notation
 > 3. ERD and schema  
