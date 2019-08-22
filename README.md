@@ -8,9 +8,9 @@ A database-backed bookstore web app, written using MySQL, HTML/CSS/JS, Node, Exp
 > 2. Navigate [HERE](http://flip3.engr.oregonstate.edu:5228/home)
 
 ## Tech and/or concepts learned/used:
-> 1. Relational databases  
-> 2. ER (entity/relationship) model/notation
-> 3. ERD and schema  
-> 4. MySQL and MariaDB
-> 5. Relational algebra
-> 6. Node, Express, and Handlebars
+> - Relational databases  
+> - ER (entity/relationship) model/notation
+> - ERD and schema  
+> - MySQL and MariaDB
+> - Relational algebra
+> - Node, Express, and Handlebars
